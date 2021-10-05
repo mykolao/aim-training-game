@@ -1,0 +1,15 @@
+{
+  "name": "aim-training-game",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykolao/aim-training-game.git"
+  },
+  "author": "mykolao",
+  "homepage": "https://github.com/mykolao/aim-training-game",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
